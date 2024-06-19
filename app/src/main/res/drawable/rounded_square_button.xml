@@ -1,0 +1,4 @@
+<!-- res/drawable/rounded_square_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"><!-- Set your desired button background color -->
+    <corners android:radius="5dp"/> <!-- Set the radius to control corner roundness -->
+</shape>

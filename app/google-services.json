@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "428052326846",
+    "firebase_url": "https://facedetectionandrecognionml-default-rtdb.firebaseio.com",
+    "project_id": "facedetectionandrecognionml",
+    "storage_bucket": "facedetectionandrecognionml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428052326846:android:9e8656b15fd2532522b1ef",
+        "android_client_info": {
+          "package_name": "com.example.facedetectionandrecognionml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN2hx9UxmEtJNO49HwlzDq9l7Sk2JIjVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428052326846:android:26be7fba15b6943c22b1ef",
+        "android_client_info": {
+          "package_name": "com.example.facerecognition20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN2hx9UxmEtJNO49HwlzDq9l7Sk2JIjVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428052326846:android:9c619437b3d3967c22b1ef",
+        "android_client_info": {
+          "package_name": "com.example.facerecognitionlast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN2hx9UxmEtJNO49HwlzDq9l7Sk2JIjVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,86 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/relativeRow"
+    android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:id="@+id/profile"
+                    android:src="@drawable/profileholder"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    app:shapeAppearanceOverlay="@style/CircularImageView" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginEnd="10dp">
+
+                        <TextView
+                            android:id="@+id/fullNameTextView"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Full Name"
+                            android:textSize="16sp"
+                            android:textColor="@color/black"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginBottom="2dp"/>
+                        <!-- Detail -->
+
+                        <TextView
+                            android:id="@+id/descriptionTextView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Picture Description"
+                            android:textSize="14sp"
+                            android:layout_marginStart="10dp"
+                            />
+
+                        <com.google.android.material.imageview.ShapeableImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/imageView"
+                            android:layout_marginTop="5dp"
+                            app:shapeAppearanceOverlay="@style/CircularImageViews"/>
+
+
+                        <!-- Posted Time -->
+                        <TextView
+                            android:id="@+id/postedTimeTextView"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="posted 2 hours ago"
+                            android:textSize="12sp"
+                            android:textColor="@android:color/darker_gray"
+                            android:layout_marginTop="1dp"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginBottom="1dp"/>
+
+
+                </LinearLayout>
+
+
+
+
+        </LinearLayout>
+
+            <View
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="0.8dp"
+                android:id="@+id/separator"
+                android:background="@color/light_white" />
+
+
+    </LinearLayout>
+
+

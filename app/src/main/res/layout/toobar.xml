@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:elevation="10dp"
+    android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        >
+        <Button
+            android:id="@+id/cropFaces"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@color/black"
+            android:textColor="@color/white"
+            android:text="Crop Faces"
+            android:layout_marginRight="10dp"
+            />
+
+        <Button
+            android:id="@+id/registerFaces"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/black"
+            android:textColor="@color/white"
+            android:text="Register Faces"
+            />
+    </LinearLayout>
+
+</androidx.appcompat.widget.Toolbar>

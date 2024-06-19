@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Custom Color -->
+    <color name="light_white">#A4C8C4C4</color>
+    <color name="light_black">#81171717</color>
+    <color name="darker_white">#A4888585</color>
+    <color name="light_blue">#0D82E9</color>
+    <color name="card_3">#D7BDE2</color>
+    <color name="card_4">#D2C3D8</color>
+    <color name="green">#0FA650</color>
+    <color name="red">#A60F0F</color>
+
+</resources>
