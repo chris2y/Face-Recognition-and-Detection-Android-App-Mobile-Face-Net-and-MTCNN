@@ -76,5 +76,3 @@ For any inquiries or feedback, please reach out to:
 - **GitHub:** [chris2y](https://github.com/chris2y)
 
 ---
-
-*This is a README file for the FaceRecogApp Android app repository. Customize it according to your project's requirements.*
