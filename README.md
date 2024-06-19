@@ -20,11 +20,10 @@ FaceRecogApp is a robust Android application designed to detect and recognize fa
 - **High Accuracy:** Provides highly accurate face recognition performance.
 
 ## Screenshots
-
-<img src="https://github.com/chris2y/Face-Recognition-and-Detection-Android-App-Mobile-Face-Net-and-MTCNN/assets/105220772/610c6100-9c1b-4361-9bf7-2c480ab82c4c" alt="Screenshot 1" width="300"/>
+<img src="https://github.com/chris2y/Face-Recognition-and-Detection-Android-App-Mobile-Face-Net-and-MTCNN/assets/105220772/6ea5d9d4-50a6-4e83-acc8-9c38d55b8941" alt="Screenshot 4" width="300"/>
 <img src="https://github.com/chris2y/Face-Recognition-and-Detection-Android-App-Mobile-Face-Net-and-MTCNN/assets/105220772/31460247-b0ff-4729-9802-536b60d5c707" alt="Screenshot 2" width="300"/>
 <img src="https://github.com/chris2y/Face-Recognition-and-Detection-Android-App-Mobile-Face-Net-and-MTCNN/assets/105220772/dadd78c1-45b8-44b2-acca-d98ef2cdfeec" alt="Screenshot 3" width="300"/>
-<img src="https://github.com/chris2y/Face-Recognition-and-Detection-Android-App-Mobile-Face-Net-and-MTCNN/assets/105220772/6ea5d9d4-50a6-4e83-acc8-9c38d55b8941" alt="Screenshot 4" width="300"/>
+
 
 ## Installation
 
